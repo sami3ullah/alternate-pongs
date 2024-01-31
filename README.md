@@ -11,4 +11,4 @@ https://github.com/sami3ullah/alternate-pongs/assets/12174076/6c0d977d-9d6a-4ff4
 ```npx serve```
 
 ## Credits:
-This idea is not my own, rather I saw the tweet Koen Van. Link to his Github is https://github.com/vnglst/pong-wars
+This idea is not my own, rather I saw the tweet Vnglst. Link to his Github is https://github.com/vnglst/pong-wars
